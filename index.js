@@ -1,3 +1,1 @@
-module.exports = function isOdd(number) {
-    return number % 2 !== 0;
-}
+module.exports = function isOdd(number) {return number % 2 !== 0;}
